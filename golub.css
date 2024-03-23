@@ -1,0 +1,46 @@
+header, footer { 
+    background-color: #efb9cb; 
+    padding: 10px; 
+  } 
+   
+  main { 
+    padding: 10px; 
+    background-color: rgb(126, 137, 199); 
+  } 
+   
+  .post { 
+    background-color: white; 
+    padding: 20px; 
+    border-radius: 10px; 
+    margin-bottom: 20px;
+    margin-top: 10px;  
+    display: flex; 
+  } 
+   
+  .post img { 
+    margin: 5px; 
+  } 
+ 
+   
+ 
+  
+  .your-class img{ 
+      width:400px; 
+      height:500px; 
+flex-wrap: wrap; 
+  }
+
+h3{
+    color: rgb(18, 23, 56); 
+    margin-left: 10px;
+}
+h4{
+    color: rgb(82, 88, 124); 
+    margin-top: 170px;
+    margin-left: 20px;
+}
+h5{
+    color: rgb(82, 88, 124); 
+    
+    margin-left: 20px;
+}
